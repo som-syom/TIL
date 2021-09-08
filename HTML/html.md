@@ -62,7 +62,8 @@
 
 ### 2-1. 레이아웃의 태그
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1eb9a1ea-ff69-4cca-b2ca-bbb30e173413/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1eb9a1ea-ff69-4cca-b2ca-bbb30e173413/Untitled.png)
+![layout tag](https://user-images.githubusercontent.com/60869490/132158908-c7d526ca-3736-4261-ba41-4d2516faf4e4.png)
+
 
 → Html5 layout
 
@@ -96,7 +97,8 @@
 
 ### 2-2. HTML 구조화 설계
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f364ef0b-8775-45b3-8b24-852198b68f63/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f364ef0b-8775-45b3-8b24-852198b68f63/Untitled.png)
+![structure](https://user-images.githubusercontent.com/60869490/132158951-34418809-33c1-4267-96c2-4aeb141354b9.png)
+
 
 → 계층적 구조
 

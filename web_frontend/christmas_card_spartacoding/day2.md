@@ -142,7 +142,7 @@
 
 - 개발자도구 → 상단의 버튼 클릭
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2006684b-de3a-4a1f-b3a0-591fcf936fa0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2006684b-de3a-4a1f-b3a0-591fcf936fa0/Untitled.png)
+![description](https://user-images.githubusercontent.com/60869490/132159273-4957fb8e-deed-40d1-8074-83a2aece9b37.png)
 
 - 적용할 폰 선택 ( ex : iphone X)
 - 다시 res

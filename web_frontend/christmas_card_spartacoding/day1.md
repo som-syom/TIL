@@ -180,9 +180,6 @@
     1. [https://fonts.google.com/?subset=korean](https://fonts.google.com/?subset=korean) 접속
     2. 마음에 드는 폰트 선택
     3. ++ Select this style 선택
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b498773a-3ccd-4e75-99a2-9ea1422aef02/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b498773a-3ccd-4e75-99a2-9ea1422aef02/Untitled.png)
-
     4. <link> 내의 코드 복사하여 head 의 title 아래에 붙여넣기
 
     4-1. CSS rules to specify families 의 코드를 복사하여
@@ -194,16 +191,16 @@
     붙여넣기
     }
     ```
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acebf98f-4a2b-41c6-94a5-3b0cf4d725b5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acebf98f-4a2b-41c6-94a5-3b0cf4d725b5/Untitled.png)
-
+    ![google font example](https://user-images.githubusercontent.com/60869490/132159132-2e2866eb-d0bf-4b19-a269-91cbeaf219f9.png)
+    
     5. 새로고침
 
 # 😊08 - 과제 제출하기
 
 - 완성이미지
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c06388b-87a2-4202-bcd7-0465e2f348b7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c06388b-87a2-4202-bcd7-0465e2f348b7/Untitled.png)
+![login page example](https://user-images.githubusercontent.com/60869490/132159172-dc9f32ff-9e0b-4b5e-8156-44744be196f1.png)
+
 
 - 코드
 
