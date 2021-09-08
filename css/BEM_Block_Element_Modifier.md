@@ -3,7 +3,8 @@ HTML 클래스 속성의 작명법
 - 요소__일부분 : Underscore(Lodash) 기호로 요소의 일부분을 표시
 - 요소--상태 : Hyphen(Dash) 기호로 요소의 상태를 표시
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ce9e34c-9df7-4783-827a-746538527edd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ce9e34c-9df7-4783-827a-746538527edd/Untitled.png)
+![image](https://user-images.githubusercontent.com/60869490/132525061-9904fe63-b28f-4873-ba6c-799450d2c16c.png)
+
 
 ⇒ 중복될 수 있으니 요소를 지칭하도록 만듬
 
