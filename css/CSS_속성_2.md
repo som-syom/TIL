@@ -162,20 +162,19 @@
 - relative : 요소 자신을 기준
     - 예제
 
-        ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled.png)
-
+        ![reletive example](https://user-images.githubusercontent.com/60869490/132528025-2b5e31b1-fc3c-47b7-85e2-ad0aa1653e67.png)
         ⇒ 자식2가 자리를 옮겨도 자식3에 영향을 주지않음
 
 - absolute : 위치 상 부모 요소 기준
     - 예제
 
-        ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%201.png)
+        ![absolute example 1](https://user-images.githubusercontent.com/60869490/132528126-bd24e1c8-5a7c-47a4-8144-716c082539d6.png)
 
         ⇒ 부모요소를 참조하기 때문에 자식1,3과 상호작용하지 않음
 
-        ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%202.png)
+        ![absolute example 2](https://user-images.githubusercontent.com/60869490/132528201-68c1a956-0907-439d-ae02-a8335b053b74.png)
 
-        ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%203.png)
+        ![absolute example 3](https://user-images.githubusercontent.com/60869490/132528271-d53da3f2-373b-4f8c-80fc-b3d36aa8edc5.png)
 
         ⇒ 정상적으로 부모요소를 참조하기 위해선 부모요소의 position 값이 지정되어야 함!(relative)
 
@@ -184,7 +183,7 @@
 - fixed : 뷰포트(브라우저)를 기준
     - 예제
 
-        ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%204.png)
+        ![fixed example](https://user-images.githubusercontent.com/60869490/132528353-8cc4faf3-4cbf-48df-b499-2f08bf77ae00.png)
 
 - stiky : 스크롤 영역 기준
 
@@ -245,9 +244,9 @@ Flex Container의 화면 출력(보여짐) 특성
 - column-reverse : 열 축 (아래→위)
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%205.png)
+    ![flex-direction example 1](https://user-images.githubusercontent.com/60869490/132528453-1ae831d4-e681-4248-863d-15d2d862e285.png)
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%206.png)
+    ![flex-direction example 2](https://user-images.githubusercontent.com/60869490/132528493-bd1c741a-7dbc-4f97-8cee-8855477e3170.png)
 
 ### flex-wrap
 
@@ -258,7 +257,7 @@ Flex Items 묶음(줄 바꿈) 여부
 - wrap-reverse : wrap의 반대 방향으로 묶음
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%207.png)
+    ![flex-wrap example](https://user-images.githubusercontent.com/60869490/132528587-a4a452ad-ad90-46d8-8798-577ce3b876ce.png)
 
 ### justify-content
 
@@ -271,7 +270,7 @@ Flex Items 묶음(줄 바꿈) 여부
 - space-around : 각 Flex Items 의 외부 여백을 균등하게 정렬
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%208.png)
+    ![justify-content](https://user-images.githubusercontent.com/60869490/132528693-fb7a9a83-1069-40b5-86a3-0f2d8a361d46.png)
 
 ### align-content
 
@@ -287,11 +286,11 @@ Flex Items 묶음(줄 바꿈) 여부
 - space-around : 각 Flex Items 의 외부 여백을 균등하게 정렬
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%209.png)
+    ![align-content example 1](https://user-images.githubusercontent.com/60869490/132528845-e0e0c038-06b0-4729-a82c-f52cb70fa6c7.png)
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2010.png)
+    ![align-content example 2](https://user-images.githubusercontent.com/60869490/132528888-68262b99-3e5b-448d-a325-eacb66c2b24b.png)
 
-> ** flex 는 줄이 나눠지면 height 값을 최대한 늘린다
+> ** flex 는 줄이 나눠지면 height 값을 최대한 늘린다 **
 
 ### align-items
 
@@ -308,13 +307,13 @@ Flex Items 묶음(줄 바꿈) 여부
 
     <여러줄인 경우>
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2011.png)
+    ![align-items example 1](https://user-images.githubusercontent.com/60869490/132529043-8eaefaa7-b9ff-4717-84b6-397b554e5c13.png)
 
     ⇒ 한 줄에 대한 정렬만 됨
 
     <한줄인 경우>
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2012.png)
+    ![align-items example 2](https://user-images.githubusercontent.com/60869490/132529084-bb76b617-ae63-438e-9a96-096eddecdae6.png)
 
 ## <flex Items>
 
@@ -328,7 +327,7 @@ flex item의 순서
 - 숫자 : 숫자가 작을수록 먼저
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2013.png)
+    ![order example](https://user-images.githubusercontent.com/60869490/132529438-b21e3824-8408-43a9-a66e-d86ab24627b5.png)
 
 ### flex-grow
 
@@ -338,7 +337,7 @@ flex item 의 **증가** 너비 비율
 - 숫자: 증가 비율
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2014.png)
+    ![flex-grow](https://user-images.githubusercontent.com/60869490/132529538-d40a5d46-f79b-4cba-9881-21a7c97e6edc.png)
 
 ⇒ 비어있는 나머지 요소에대한 비율
 
@@ -350,7 +349,7 @@ flex item 의 **감소** 너비 비율
 - 숫자 : 감소 비율
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2015.png)
+    ![flex-shrink](https://user-images.githubusercontent.com/60869490/132529770-e9373ae5-f5dd-4167-9d76-827236508eef.png)
 
 ⇒ 컨테이너가 줄어들 때 item의 줄어드는 비율
 
@@ -362,11 +361,11 @@ flex item 의 공간 배분 전 기본 너비
 - 단위 : px, em, rem 등의 단위
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2016.png)
+    ![flex-basis example 1](https://user-images.githubusercontent.com/60869490/132529857-039d4f85-86eb-4d39-9d6c-50e520385337.png)
 
     ⇒ grow 는 요소의 content 내용을 제외한 남은 영역에 대한 비율임
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2017.png)
+    ![flex-basis example 2](https://user-images.githubusercontent.com/60869490/132529893-fe8be271-8925-46ef-a9b3-7889aa93ef5a.png)
 
 # 전환
 
@@ -469,13 +468,13 @@ hover, active ...
 
 < perspective 속성과 함수 차이점 >
 
-                                                                  적용 대상                기준점 설정       
-(속성)perspective: 600px                    관찰 대상의 부모   perspective-origin
-(함수)transform: perspective(600px)  관찰 대상 자체       transform-origin
+                                          적용 대상             기준점 설정       
+(속성)perspective: 600px                 관찰 대상의 부모      perspective-origin
+(함수)transform: perspective(600px)       관찰 대상 자체       transform-origin
 
 - 예제
 
-    ![Untitled](CSS%20%E1%84%89%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC2%204710623d25d5480d91826d444d8ef3ad/Untitled%2018.png)
+    ![perspective example](https://user-images.githubusercontent.com/60869490/132530244-8b3127ec-ac52-4b81-a5e8-9b0ec75b0bd1.png)
 
 ## backfase-visibility
 
